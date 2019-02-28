@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Star-Wars-Arena:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb47e28e-f5f3-4183-9e81-12e07c07391a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/Assignment2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/donate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/exhibits.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/alone-in-museum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/baja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/cactus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/california-water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/dinosaur-bones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/dinosaur-trex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/dinosaur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/dinosaurs-skeletons-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/dinosaurs-skeletons-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/exhibition-portrait.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/exhibition.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/fossil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/glass-blower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/guggenheim-museumjpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/hidden-gems.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/horn-skeleton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/jellyfish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/learning-kids.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/mastodon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/museum-dome-on-blue-sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/museum-hallway-white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/museum-observer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/museum-structure.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/museum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/national-museum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/people-listening.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/photo-collage-exhibit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/river.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/rocket-in-the-museum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/rome-vatican-museum-statue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/science.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/skeleton-dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/skull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/spiral-stairs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/stone-of-the-sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/images/storage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/involved-process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/involved-process2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/involved.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fall 2018/CS545/Assignment 4/newsletter.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1367821806">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Manifest" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5356" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5356" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StarWarsArenaGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#13743#13744#0" expanded="true" />
+                <element signature="e#13780#13781#0" expanded="true" />
+                <element signature="e#11262#11263#0" expanded="true" />
+                <element signature="e#11300#11301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StarWarsCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>topPhrase</find>
+      <find>getTurnCounter()</find>
+      <find>turnCounter</find>
+      <find>turnCount</find>
+      <find>getEnemyHealth()</find>
+      <find>getYourHealth()</find>
+      <find>attackHighGround</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Fall 2018/CS532/EnrollMe" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Fall 2018/CS532/enroll-me" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/StarWarsCharacter.java" />
+        <option value="$PROJECT_DIR$/src/StarWarsArenaGUI.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="703" />
+    <option name="y" value="23" />
+    <option name="width" value="977" />
+    <option name="height" value="962" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Star Wars Arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Star-Wars-Arena" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Star Wars Arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Star-Wars-Arena" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551331311919" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StarWarsArenaGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarWarsArenaGUI" />
+      <module name="Star-Wars-Arena" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StarWarsArenaGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb47e28e-f5f3-4183-9e81-12e07c07391a" name="Default Changelist" comment="" />
+      <created>1551320936228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551320936228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="827" y="23" width="853" height="962" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20221949" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.12951432" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33872977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StarWarsArenaGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#13743#13744#0" expanded="true" />
+            <element signature="e#13780#13781#0" expanded="true" />
+            <element signature="e#11262#11263#0" expanded="true" />
+            <element signature="e#11300#11301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StarWarsCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Star-Wars-Arena:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Star-Wars-Arena</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
