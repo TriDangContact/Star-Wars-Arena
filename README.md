@@ -7,4 +7,4 @@ or
 - Compile the StarWarsArenaMain.java file in the src folder.
 
 # Screenshots
-<img src="https://imgur.com/a/GqGazZn">
+![alt text]()
